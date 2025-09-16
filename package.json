@@ -1,6 +1,6 @@
 {
   "name": "@jsonic-co/ui",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "license": "MIT",
   "description": "Jsonic UI",
   "author": "Jsonic (support@jsonic.ir)",
@@ -34,8 +34,8 @@
     "@fontsource-variable/inter": "^5.0.5",
     "@fontsource-variable/material-symbols-rounded": "^5.0.5",
     "@fontsource-variable/roboto-mono": "^5.0.6",
-    "@jsonic-co/vue-sonner": "^1.2.3",
-    "@jsonic-co/vue-toasted": "^0.1.0",
+    "@jsonic-co/vue-sonner": "^1.2.4",
+    "@jsonic-co/vue-toasted": "^0.1.1",
     "@vitejs/plugin-legacy": "^2.3.0",
     "@vueuse/core": "^8.7.5",
     "fp-ts": "^2.12.1",
