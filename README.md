@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://jsonic.ir">
     <img
-      src="https://avatars.githubusercontent.com/u/56705483"
+      src="https://avatars.githubusercontent.com/u/232531597"
       alt="Jsonic Logo"
       height="64"
     />
